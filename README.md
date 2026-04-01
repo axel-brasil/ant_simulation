@@ -1,7 +1,25 @@
-## ANT SIMULATION WRITE IN PYTHON ##
-### IN PROGRESS ###
+# Ant Simulation
 
-Requires PyGame 
-> pip3 install pygame
+Simulation of ant behavior and movement patterns.
 
-Needed to rewrite with grid format
+## Tech Stack
+- Python
+- Graphics library (likely pygame/matplotlib)
+
+## Status
+In Progress
+
+## Files
+- `main.py` - Main simulation logic
+- `draw_test.py` - Graphics testing
+
+## How to Run
+```bash
+python main.py
+```
+
+## Created
+~March 2025
+
+## Notes
+Active simulation project exploring ant colony behavior.
