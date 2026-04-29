@@ -17,9 +17,3 @@ In Progress
 ```bash
 python main.py
 ```
-
-## Created
-~March 2025
-
-## Notes
-Active simulation project exploring ant colony behavior.
