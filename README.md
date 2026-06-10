@@ -4,14 +4,13 @@ Simulation of ant behavior and movement patterns.
 
 ## Tech Stack
 - Python
-- Graphics library (likely pygame/matplotlib)
+- Graphics library (pygame)
 
 ## Status
 In Progress
 
 ## Files
 - `main.py` - Main simulation logic
-- `draw_test.py` - Graphics testing
 
 ## How to Run
 ```bash
